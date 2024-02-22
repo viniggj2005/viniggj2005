@@ -6,9 +6,9 @@ viniggj2005/viniggj2005 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED092C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0960ed&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ED092C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinícius+G.G+Juraszek;I'm+18+years+old;I'm+from+Paraná+-+Brazil+;I+study+Bigdata+analisys+at+PucPR;AKA+Systems+Analysis+And+Development+at+IFPR;Feel+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0960ed&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinícius+G.G+Juraszek;I'm+18+years+old;I'm+from+Paraná+-+Brazil+;I+study+Bigdata+analisys+at+PucPR;AKA+Systems+Analysis+And+Development+at+IFPR;Feel+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniggj2005&show_icons=true&count_private=true&hide_border=true&title_color=0960ed&icon_color=0960ed&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Gabriel Graupmann Juraszek's Github Stats" /> 
